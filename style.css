@@ -1,0 +1,45 @@
+body{
+    background-color: plum;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200vh;
+}
+
+.cadastro{
+ 
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 8px;
+    width: 500px;
+    }
+    
+    h1{
+    
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    label{
+        font-weight: bold;
+        display: block;
+        margin-top: 10px;
+    }
+   
+   input, select{
+   
+       width: 100%;
+       padding: 8px;
+       margin-top: 15px;
+       border: 1px solid #ccc;
+       border-radius: 15px;
+   
+   }
+   
+   
+   button{
+   
+       background-color: mediumpurple;
+       color: white;
+       padding: 10px;
+   
+   }
